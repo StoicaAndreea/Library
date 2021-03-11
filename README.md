@@ -1,7 +1,4 @@
 # Library
-Dupa finalizarea acestui proiect, incepusem studiul interfetei grafice pe el.
-*nefinalizat*
-
 3. Căutarea cărţilor într-o bibliotecă
 Să se proiecteze şi creeze soft care exploatează o BD (sau ansamblu de fişiere/tabele în memorie) cu
 informaţii despre cărţile unei biblioteci (în final acesta va conţine date reale pentru cel puţin 30 de cărţi) şî va
