@@ -35,11 +35,6 @@ public class Main {
         GenRepository gr=new GenRepository();
         CartiService s=new CartiService(cr,gr);
         UI ui=new UI(s);
-        //ui.Main();
-        JFrame frame=new JFrame("App");
-        frame.setContentPane(new GuiApp().getPanelMain1());
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setVisible(true);
+        ui.Main();
     }
 }
